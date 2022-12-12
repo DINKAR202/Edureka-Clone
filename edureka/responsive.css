@@ -1,0 +1,8 @@
+.header_of_page{
+    height: 40px;
+    width: 100%;
+    background:linear-gradient(90deg, blue, darkblue);
+}
+.edureka_text a{
+    color: white;
+}
